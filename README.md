@@ -4,6 +4,12 @@ A Machine Learning based Credit Card Fraud Detection System built using **Logist
 The model is trained on a **6 million+ transaction dataset** from Kaggle to classify financial transactions as fraudulent or legitimate.
 
 ---
+## Live Demo
+
+Try the deployed application here:
+
+[Credit Card Fraud Detection App]((https://creditcard-fraud-detection2.streamlit.app/))
+
 
 ## Features
 
