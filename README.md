@@ -8,7 +8,7 @@ The model is trained on a **6 million+ transaction dataset** from Kaggle to clas
 
 Try the deployed application here:
 
-[Credit Card Fraud Detection App]((https://creditcard-fraud-detection2.streamlit.app/))
+[Credit Card Fraud Detection App](https://creditcard-fraud-detection2.streamlit.app/)
 
 
 ## Features
